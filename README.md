@@ -13,12 +13,12 @@ This user is interested in:
 
 <!-- Social icons section -->
 <p align="left">
- <a href="https://twitter.com/mba_oma"><img width="26px" alt="Twitter" title="Twitter" src="https://i.imgur.com/LS08Auh.png"/></a>
- <a href="https://linkedin.com/in/mbaoma-chioma-mary" alt="LinkedIn"><img width="26px" src="https://i.imgur.com/VgmUYaC.png"/></a>
+ <a href="https://twitter.com/K_Honsu"><img width="26px" alt="Twitter" title="Twitter" src="https://i.imgur.com/LS08Auh.png"/></a>
+ <a href="https://www.linkedin.com/in/feranmi-adeyemi-618843257/" alt="LinkedIn"><img width="26px" src="https://i.imgur.com/VgmUYaC.png"/></a>
 </p>   &#8287;&#8287;&#8287;&#8287;&#8287;
 
 ## 🔥 Streak stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mbaoma&theme=cobalt)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=K-Honsu&theme=cobalt)](https://git.io/streak-stats)
 <br>
  
 Ganbate ✌!! <br>
