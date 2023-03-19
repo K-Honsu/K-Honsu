@@ -9,7 +9,9 @@ This user is interested in:
     💬 Javascript 
     💬 Software Development
     💬 Django 
-    💬 Python REST 
+    💬 Python REST FRAMEWORK
+    💬 Soft Skills
+    
 
 <!-- Social icons section -->
 <p align="left">
